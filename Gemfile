@@ -65,6 +65,11 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
+<<<<<<< Updated upstream
 end
 
 gem 'devise'
+gem 'pry-rails'
+=======
+end
+>>>>>>> Stashed changes
